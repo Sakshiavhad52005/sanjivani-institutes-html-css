@@ -128,3 +128,12 @@ th {
     background: #004aad;
     color: white;
 }
+
+input, select, textarea {
+    width: 100%;
+    padding: 12px;
+    margin-top: 8px;
+    border-radius: 6px;
+    border: 1px solid #bbb;
+    font-size: 15px;
+}
