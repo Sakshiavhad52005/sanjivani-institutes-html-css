@@ -47,3 +47,21 @@ z-index: 1000;
     border-radius: 50%;
     object-fit: cover;
 }
+.project-name {
+    color: white;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    gap: 400px;
+}
+
+.nav-links-container,
+.auth-links-container {
+    display: flex;
+    gap: 10px;
+    cursor: pointer;
+}
